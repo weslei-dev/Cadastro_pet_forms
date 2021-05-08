@@ -1,0 +1,7 @@
+C:\Users\wesle\source\repos\Cadrastro de Pets\Cadrastro de Pets\obj\Debug\Cadrastro de Pets.csprojAssemblyReference.cache
+C:\Users\wesle\source\repos\Cadrastro de Pets\Cadrastro de Pets\obj\Debug\Cadrastro de Pets.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Cadrastro de Pets\Cadrastro de Pets\bin\Debug\Cadrastro de Pets.exe.config
+C:\Users\wesle\source\repos\Cadrastro de Pets\Cadrastro de Pets\bin\Debug\Cadrastro de Pets.exe
+C:\Users\wesle\source\repos\Cadrastro de Pets\Cadrastro de Pets\bin\Debug\Cadrastro de Pets.pdb
+C:\Users\wesle\source\repos\Cadrastro de Pets\Cadrastro de Pets\obj\Debug\Cadrastro de Pets.exe
+C:\Users\wesle\source\repos\Cadrastro de Pets\Cadrastro de Pets\obj\Debug\Cadrastro de Pets.pdb
